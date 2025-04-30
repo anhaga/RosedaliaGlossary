@@ -1,27 +1,27 @@
 .card {
-  width: 90%;
-  max-width: 480px;
+  width: 95%;
+  max-width: 720px; /* previously 480px */
   background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
-  padding: 0.8rem;
-  margin: 0.5rem 0;
+  padding: 1rem;
+  margin: 0.75rem 0;
   text-align: left;
   font-size: 1.1rem;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 .card .word {
   font-weight: bold;
-  font-size: 1.3rem;
-  margin-bottom: 0.2rem;
+  font-size: 1.4rem;
+  margin-bottom: 0.25rem;
   font-family: "Courier New", Courier, monospace;
 }
 
 .card .english {
   font-size: 1.1rem;
   color: #555;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.25rem;
 }
 
 .card .type {
@@ -34,6 +34,17 @@
 .card .etymology {
   font-size: 0.9rem;
   color: #888;
-  margin-top: 0.4rem;
+  margin-top: 0.6rem;
   font-style: italic;
+}
+
+.card .examples {
+  margin-top: 0.6rem;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.card .examples ul {
+  margin: 0.3rem 0 0 1rem;
+  padding: 0;
 }
