@@ -20,11 +20,13 @@ function displayResults(query) {
     li.className = 'card';
 
     const english = entry.english_word
-      ? `<div class="english">${entry.english_word}</div>`
-      : '';
+      ? `<div class="english">${entry.english_word}</div>` : '';
 
     const etymology = entry.etymology
-      ? `<div class="etymology">${entry.etymology}</div>`
+      ? `<div class="etymology">${entry.etymology}</div>` : '';
+
+    const examples = entry.examples && entry.examples.length
+      ? `<div class="examples"><strong>Examples:</strong><ul>${entry.examples.map(e => `<li>${e}</li>`).join('')}</ul></div>`
       : '';
 
     li.innerHTML = `
@@ -33,6 +35,7 @@ function displayResults(query) {
       <div class="type">(${entry.word_type})</div>
       <div class="definition">${entry.definition}</div>
       ${etymology}
+      ${examples}
     `;
 
     results.appendChild(li);
