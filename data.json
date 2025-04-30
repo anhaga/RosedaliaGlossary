@@ -1,10 +1,14 @@
 [
   {
-    "word": "hello",
-    "definition": "A greeting or expression of goodwill."
+    "word": "ghoti",
+    "english_word": "fish",
+    "word_type": "noun",
+    "definition": "An aquatic animal that swims in water."
   },
   {
-    "word": "sun",
-    "definition": "The star at the center of the solar system."
+    "word": "skedaddle",
+    "english_word": "to go",
+    "word_type": "verb",
+    "definition": "To move or travel from one place to another."
   }
 ]
