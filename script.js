@@ -16,7 +16,8 @@ function displayResults(query) {
 
   filtered.forEach(entry => {
     const li = document.createElement('li');
-    li.innerHTML = `<strong>${entry.word}</strong>: ${entry.definition}`;
+    li.className = 'card';
+    li.innerHTML = `<div class="word">${entry.word}</div><div class="definition">${entry.definition}</div>`;
     results.appendChild(li);
   });
 }
