@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: white;
+  color: black;
+  text-align: center;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+input[type="text"] {
+  font-size: 1.2rem;
+  padding: 0.5rem;
+  width: 80%;
+  max-width: 400px;
+  margin-bottom: 2rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
