@@ -3,11 +3,11 @@
     "word": "squeezy",
     "english_word": "bad",
     "word_type": "adjective",
-    "definition": "An aquatic animal that swims in water.",
+    "definition": "Having the quality of something that is particularly unfortunate to experience.",
     "etymology": "'off the hook' (as in phones) -> 'off the heezy' (rhymes with) dick squeezy -> squeezy"
   },
   {
-    "word": "hompy chomp",
+    "word": "to hompy chomp",
     "word_type": "verb",
     "definition": "To move about in a rambunctious and loud way, especially on a loud floor - for example, the second floor of a house.",
     "etymology": "Beaty"
@@ -17,5 +17,55 @@
     "word_type": "noun",
     "definition": "An individual who is particularly prone to whining.",
     "etymology": "Beaty"
+  },
+  {
+    "word": "chubi",
+    "english_word": "bitch",
+    "word_type": "noun",
+    "definition": "Chubi is a euphemized version of the word 'bitch', especially when used as a pejorative.",
+    "etymology": "2000s era cell phones auto-correcting 'bitch' to 'chubi'"
+  },
+  {
+    "word": "bich",
+    "word_type": "expletive/particle",
+    "definition": "A particle attached to the end of a sentence for emphasis, or used in response to a statement to add emphasis.",
+    "etymology": "bich originates from the English term 'bitch', although grammar rules have deviated from the way the term 'bitch' is used."
+  {
+    "word": "wig wog",
+    "word_type": "noun",
+    "definition": "A manner of dancing, with arms out-stretched, wiggling from side-to-side."
+  },
+  {
+    "word": "felyu",
+    "word_type": "noun",
+    "definition": "A person, as in 'fellow' - especially a compatriot."
+  },
+  {
+    "word": "funk",
+    "word_type": "noun",
+    "definition": "An individual who is clumsy, either in physical prowess or in social grace."
+  },
+  {
+    "word": "to shaq",
+    "word_type": "verb",
+    "definition": "To be inordinately distracted during a group activity."
+  },
+  {
+    "word": "-old",
+    "word_type": "suffix",
+    "definition": "A group of people typified by the word to which the suffix is attached, e.g. cultold, bichold",
+    "etymology": "Archaic/uncommon english"
+  },
+  {
+    "word": "-oid",
+    "word_type": "suffix",
+    "definition": "An individual or being typified by the word to which the suffix is attached, but with a connotation of anonymity or generality, e.g. friendoid, mouseoid, funkoid.",
+    "etymology": "Archaic/uncommon english"
+  },
+  {
+    "word": "dendo",
+    "word_type": "noun",
+    "definition": "An antagonist, or an enemy. Alternative forms include 'dendrite', 'dendocrat', 'dendoid'",
+    "etymology": "English word 'friend' -> 'friendo' -> 'friendo dendo' -> 'dendo'"
   }
 ]
