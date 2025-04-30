@@ -16,7 +16,8 @@
     "word": "bunner",
     "word_type": "noun",
     "definition": "An individual who is particularly prone to whining.",
-    "etymology": "Beaty"
+    "etymology": "Beaty",
+    "examples": ["Dad, Cameron is being a bunner!!!"]
   },
   {
     "word": "chubi",
@@ -27,46 +28,86 @@
   },
   {
     "word": "bich",
-    "word_type": "expletive/particle",
-    "definition": "A particle attached to the end of a sentence for emphasis, or used in response to a statement to add emphasis.",
-    "etymology": "bich originates from the English term 'bitch', although grammar rules have deviated from the way the term 'bitch' is used."
+    "word_type": "interjection/particle",
+    "definition": "A particle attached to the end of a sentence for emphasis (as in agglutinative languages), or used in response to a statement to add emphasis.",
+    "etymology": "bich originates from the English term 'bitch', although grammar rules have deviated from the way the term 'bitch' is used.",
+    "examples": ["Person 1: I don't think I can play tonight", "Person 2: bich"]
   },
   {
     "word": "wig wog",
     "word_type": "noun",
-    "definition": "A manner of dancing, with arms out-stretched, wiggling from side-to-side."
+    "definition": "A manner of dancing, with arms out-stretched, wiggling from side-to-side. Alternative forms include 'wig-wog', 'wigwog'",
+    "examples": ["I hit 'em with that wig-wog"]
   },
   {
     "word": "felyu",
     "word_type": "noun",
-    "definition": "A person, as in 'fellow' - especially a compatriot."
+    "definition": "A person, as in 'fellow' - especially a compatriot. The final phoneme may be extended for emphasis.",
+    "examples": ["What it do, felyu?", "Waaaaa. Felyuuuuu"]
   },
   {
     "word": "funk",
     "word_type": "noun",
-    "definition": "An individual who is clumsy, either in physical prowess or in social grace."
+    "definition": "An individual who is clumsy, either in physical prowess or in social grace.",
+    "examples": ["Now listen here, you funk."]
   },
   {
     "word": "to shaq",
     "word_type": "verb",
-    "definition": "To be inordinately distracted during a group activity."
+    "definition": "To be inordinately distracted during a group activity.",
+    "examples": ["Dude, stop shaqqing.", "I'M NOT SHAQQING. I AM LOOKING FOR THE DOOR.", "We can all see you Shaqqing right now."]
   },
   {
     "word": "-old",
     "word_type": "suffix",
     "definition": "A group of people typified by the word to which the suffix is attached, e.g. cultold, bichold",
-    "etymology": "Archaic/uncommon english"
   },
   {
     "word": "-oid",
     "word_type": "suffix",
     "definition": "An individual or being typified by the word to which the suffix is attached, but with a connotation of anonymity or generality, e.g. friendoid, mouseoid, funkoid.",
-    "etymology": "Archaic/uncommon english"
+    "etymology": "Ancient greek, εἶδος"
   },
   {
     "word": "dendo",
     "word_type": "noun",
     "definition": "An antagonist, or an enemy. Alternative forms include 'dendrite', 'dendocrat', 'dendoid'",
     "etymology": "English word 'friend' -> 'friendo' -> 'friendo dendo' -> 'dendo'"
+  },
+  {
+    "word": "to scoot",
+    "word_type": "verb",
+    "definition": "To begin moving, to prepare to leave",
+    "examples": ["Get scooting, we have to get to Grandpa's house sometime today."]
+  },
+  {
+    "word": "gumy",
+    "word_type": "noun",
+    "definition": "Any type of medicine or supplement",
+    "etymology": "A bastardization of the word 'gummy'"
+  },
+  {
+    "word": "scoop-bop",
+    "word_type": "verb/interjection",
+    "definition": "To playfully lift up and then pat downward the breast of another person, while saying 'scoop-bop'.",
+    "etymology": "Scooping up the field mice and bopping them on the head"
+  },
+  {
+    "word": "hippomapotamus",
+    "word_type": "noun/interjection",
+    "definition": "A dance, wherein one walks forward in a slow and pronounced manner, while saying 'hippomapotamus'.",
+    "etymology": "Cayden"
+  },
+  {
+    "word": "bike path",
+    "word_type": "interjection/sign",
+    "definition": "An interjection, accompanied by the associated sign - to hold the pointer finger and middle finger outstretched and slightly curled, and then to move the wrist to tild the fingers downward. The meaning is unknown, and possibly unknowable.",
+    "etymology": "Cayden"
+  },
+  {
+    "word": "10-4 10-4",
+    "word_type": "interjection/sign",
+    "definition": "A sign, sometimes accompanied by the associated interjection - to hold the hand in the devil's horns sign, then alternating extension and contraction of the pointer finger and pinky finger.",
+    "etymology": "Cameron/Connor"
   }
 ]
