@@ -156,7 +156,7 @@
   {
     "word": "squirt",
     "word_type": "verb",
-    "definition": "To launch projectiles, or any act which simulates the launching of projectiles."
+    "definition": "To clean, or to play video games."
   },
   {
     "word": "robot air",
@@ -174,7 +174,7 @@
     "definition": "Unknown meaning"
   },
   {
-    "word": "______-ouse",
+    "word": "-ouse",
     "word_type": "intensifier",
     "definition": "Modifies a verb that ends with 'ous' to be greater in intensity, also modifying the pronunciation of the same verb in order to facilitate potentially rhyming with 'mouse'. If the word does not end in 'ous', 'ous' must be appended.",
     "examples": ["Delici-ouse (delicious)", "Seri-ouse (serious) as a seri-mouse", "Weirdy-ouse (weird) as a weirdy-mouse"]
@@ -201,8 +201,26 @@
   },
   {
     "word": "bolivion",
+    "english_word": "oblivion",
     "word_type": "noun",
-    "definition": "Oblivion",
+    "definition": "A state of complete annihilation",
     "etymology": "Mike Tyson"
+  },
+  {
+    "word": "little skeaze",
+    "english_word": "Little Caesars",
+    "word_type": "proper noun",
+    "definition": "A popular pizza chain based out of Detroit"
+  },
+  {
+    "word": "chungies",
+    "english_word": "PF Chang's",
+    "word_type": "proper noun",
+    "definition": "A popular Chinese-American restaurant chain."
+  },
+  {
+    "word": "haitch zed",
+    "word_type": "interjection",
+    "definition": "Used to indicate surprise or disbelief"
   }
 ]
