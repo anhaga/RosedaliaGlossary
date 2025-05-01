@@ -33,7 +33,9 @@ function displayResults(query) {
       ? `<div class="english">${entry.english_word}</div>` : '';
 
     const etymology = entry.etymology
-      ? `<div class="etymology">${entry.etymology}</div>` : '';
+      ? `<div class="etymology"><span class="etymology-label">Etymology:</span> ${entry.etymology}</div>`
+      : '';
+
 
     const examples = entry.examples && entry.examples.length
       ? `<div class="examples"><strong>Examples:</strong><ul>${entry.examples.map(e => `<li>${e}</li>`).join('')}</ul></div>`
