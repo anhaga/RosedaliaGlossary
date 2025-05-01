@@ -33,9 +33,15 @@
 
 .card .etymology {
   font-size: 0.9rem;
-  color: #888;
+  color: #666;
   margin-top: 0.6rem;
   font-style: italic;
+}
+
+.card .etymology-label {
+  font-style: normal;
+  font-weight: bold;
+  color: #444;
 }
 
 .card .examples {
