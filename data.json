@@ -109,5 +109,48 @@
     "word_type": "interjection/sign",
     "definition": "A sign, sometimes accompanied by the associated interjection - to hold the hand in the devil's horns sign, then alternating extension and contraction of the pointer finger and pinky finger.",
     "etymology": "Cameron/Connor"
+  },
+  {
+    "word": "gooder than grits",
+    "word_type": "adjective",
+    "definition": "Of exceptionally high quality or taste"
+  },
+  {
+    "word": "shite",
+    "word_type": "noun",
+    "definition": "Unspecified or miscellaneous things or matters. Can be used without typical specifying articles, such as 'the' or 'this'",
+    "examples": ["Shite is gooder than grits"]
+  },
+  {
+    "word": "mercantilism",
+    "word_type": "noun",
+    "definition": "Any violent act, or any act which simulates violence."
+  },
+  {
+    "word": "to sleg",
+    "word_type": "verb",
+    "definition": "To play a game with friends"
+  },
+  {
+    "word": "How is your ____?",
+    "word_type": "curse",
+    "definition": "Utterance of this phrase is a supernatural wish that the person or activity asked about has either died or befallen some great tragedy or affliction.",
+    "etymology": "Shaq"
+  },
+  {
+    "word": "Are you saying...",
+    "word_type": "interjection",
+    "definition": "A phrase indicating that one is concerned about the social stigma of an act, but hopes that others are also engaged in the act, so that one can discuss it without fear of social reprisal.",
+    "etymology": "Shaq"
+  },
+  {
+    "word": "ite",
+    "word_type": "contraction",
+    "definition": "all right"
+  },
+  {
+    "word": "tasty ace",
+    "word_type": "adjective/noun",
+    "definition": "In its adjectival form, is a synonym for delicious. As a noun, it refers to a sandwich containing multiple meats (especially ham, beef) and/or egg without the presence of anything disgusting."
   }
 ]
