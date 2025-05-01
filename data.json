@@ -152,5 +152,51 @@
     "word": "tasty ace",
     "word_type": "adjective/noun",
     "definition": "In its adjectival form, is a synonym for delicious. As a noun, it refers to a sandwich containing multiple meats (especially ham, beef) and/or egg without the presence of anything disgusting."
+  },
+  {
+    "word": "squirt",
+    "word_type": "verb",
+    "definition": "To launch projectiles, or any act which simulates the launching of projectiles."
+  },
+  {
+    "word": "robot air",
+    "word_type": "noun",
+    "definition": "Circulated air inside of a house, especially when air-conditioned, heated, or filtered."
+  },
+  {
+    "word": "sawm beach",
+    "word_type": "interjection",
+    "definition": "Used to indicate disappointment."
+  },
+  {
+    "word": "eighyoeugh",
+    "word_type": "interjection",
+    "definition": "Unknown meaning"
+  },
+  {
+    "word": "______-ouse",
+    "word_type": "intensifier",
+    "definition": "Modifies a verb that ends with 'ous' to be greater in intensity, also modifying the pronunciation of the same verb in order to facilitate potentially rhyming with 'mouse'. If the word does not end in 'ous', 'ous' must be appended.",
+    "examples": ["Delici-ouse (delicious)", "Seri-ouse (serious) as a seri-mouse", "Weirdy-ouse (weird) as a weirdy-mouse"]
+  },
+  {
+    "word": "driblets",
+    "word_type": "noun",
+    "definition": "Small remnants of a liquid"
+  },
+  {
+    "word": "thig",
+    "word_type": "noun",
+    "definition": "Thai food. Alternative forms include 'thiggy', 'thiggy thig'"
+  },
+  {
+    "word": "middy",
+    "word_type": "noun",
+    "definition": "A recreational activity performed in the middle of the day. Alternative forms include 'midward', 'mid-day gay'"
+  },
+  {
+    "word": "guhempts",
+    "word_type": "interrogative",
+    "definition": "Used to inquire after the approximate time left until someone will join a group. Also, 'whence', 'whence ye'"
   }
 ]
