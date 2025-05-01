@@ -10,10 +10,20 @@ function displayResults(query) {
   const results = document.getElementById('results');
   results.innerHTML = '';
 
-  const filtered = data.filter(entry =>
-    entry.word.toLowerCase().includes(query.toLowerCase()) ||
-    (entry.english_word && entry.english_word.toLowerCase().includes(query.toLowerCase()))
-  );
+  const filtered = data
+    .filter(entry =>
+      entry.word.toLowerCase().includes(query.toLowerCase()) ||
+      (entry.english_word && entry.english_word.toLowerCase().includes(query.toLowerCase()))
+    )
+    .sort((a, b) => {
+      const getSortKey = (entry) => {
+        if (entry.word_type === "verb" && entry.word.toLowerCase().startsWith("to ")) {
+          return entry.word.slice(3).toLowerCase();
+        }
+        return entry.word.toLowerCase();
+      };
+      return getSortKey(a).localeCompare(getSortKey(b));
+    });
 
   filtered.forEach(entry => {
     const li = document.createElement('li');
