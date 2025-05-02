@@ -180,7 +180,7 @@
   },
   {
     "word": "-ouse",
-    "word_type": "intensifier",
+    "word_type": "suffix/intensifier",
     "definition": "Modifies a verb that ends with 'ous' to be greater in intensity, also modifying the pronunciation of the same verb in order to facilitate potentially rhyming with 'mouse'. If the word does not end in 'ous', 'ous' must be appended.",
     "examples": ["Delici-ouse (delicious)", "Seri-ouse (serious) as a seri-mouse", "Weirdy-ouse (weird) as a weirdy-mouse"]
   },
@@ -226,6 +226,42 @@
   {
     "word": "haitch zed",
     "word_type": "interjection",
-    "definition": "Used to indicate surprise or disbelief"
+    "definition": "Used to indicate surprise or disbelief, or alternatively, used as acknowledgement in response to someone saying 'What the haitch'"
+  },
+  {
+    "word": "-let",
+    "word_type": "suffix",
+    "definition": "Diminuitive marker"
+  },
+  {
+    "word": "playing monopoly",
+    "word_type": "euphemism/verb",
+    "english_word": "self-stimulating",
+    "definition": "Engaging in onanism"
+  },
+  {
+    "word": "five real",
+    "word_type": "interjection",
+    "definition": "Used to indicate strong agreement. Alternatively, 'quatros anguilos'"
+  },
+  {
+    "word": "meat",
+    "word_type": "noun",
+    "definition": "Ammunition for firearms. Alternatively, 'meat caliber'"
+  },
+  {
+    "word": "yurbane",
+    "word_type": "interjection/mystery",
+    "definition": "Make me yeader. Alternatively, make my balls drop."
+  },
+  {
+    "word": "mofs",
+    "word_type": "interjection",
+    "definition": "Used to indicate that the speaker is thinking of 'The Matrix', a 1999 science fiction film. The appropriate response is 'Trinidad'"
+  },
+  {
+    "word": "noggle",
+    "word_type": "noun",
+    "definition": "A term of endearment; a comrade. Alternatively, a generic term for individuals, similar to 'fellow'"
   }
 ]
