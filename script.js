@@ -59,3 +59,30 @@ document.getElementById('search').addEventListener('input', (e) => {
 });
 
 loadData();
+
+// Tab switching
+const tabDict = document.getElementById('tab-dictionary');
+const tabLore = document.getElementById('tab-lore');
+const dictView = document.querySelector('main');
+const loreView = document.getElementById('lore');
+
+tabDict.addEventListener('click', () => {
+  tabDict.classList.add('active');
+  tabLore.classList.remove('active');
+  dictView.classList.remove('hidden');
+  loreView.classList.add('hidden');
+});
+
+tabLore.addEventListener('click', () => {
+  tabLore.classList.add('active');
+  tabDict.classList.remove('active');
+  dictView.classList.add('hidden');
+  loreView.classList.remove('hidden');
+});
+
+// Load Markdown lore
+fetch('lore.md')
+  .then(res => res.text())
+  .then(md => {
+    document.getElementById('lore-content').innerHTML = marked.parse(md);
+  });
