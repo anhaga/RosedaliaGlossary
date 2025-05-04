@@ -4,13 +4,21 @@
   <meta charset="UTF-8">
   <title>Rosedalia Glossary</title>
   <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
+  <div class="tabs">
+    <button id="tab-dictionary" class="tab active">Dictionary</button>
+    <button id="tab-lore" class="tab">Lore</button>
+  </div>
   <main>
     <h1>Rosedalia Glossary</h1>
     <input type="text" id="search" placeholder="Search for a word..." autofocus />
     <ul id="results"></ul>
   </main>
+  <div id="lore" class="hidden">
+    <div id="lore-content">Loading lore...</div>
+  </div>
   <script src="script.js"></script>
 </body>
 </html>
