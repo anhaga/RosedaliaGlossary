@@ -297,12 +297,17 @@
   },
   {
     "word": "Vampirates",
-    "word_type": "noun",
+    "word_type": "proper noun",
     "definition": "A deadly crime syndicate that used to haunt the A&W on Rosedale Hwy and play songs about trans women"
   },
   {
     "word": "rosedalia.net",
-    "word_type": "noun",
+    "word_type": "proper noun",
     "definition": "A website"
+  },
+  {
+    "word": "the Pube",
+    "word_type": "proper noun",
+    "definition": "A fabled public house where wise men once congregated"
   }
 ]
