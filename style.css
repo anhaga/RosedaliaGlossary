@@ -1,6 +1,7 @@
 .card {
+  list-style: none;
   width: 95%;
-  max-width: 720px; /* previously 480px */
+  max-width: 720px;
   background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
